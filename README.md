@@ -4,7 +4,7 @@ A comprehensive collection of Java programming challenges and concepts, organize
 
 ---
 ### Progress
-*3/101*
+*15/101*
 
 ## Table of Contents
 - [Basic (1–25)](#basic-125)
@@ -19,19 +19,19 @@ A comprehensive collection of Java programming challenges and concepts, organize
 
 1. [Write a Java program to print "Hello, World!"](basic/001-hello-world.md)  
 2. [How do you declare and initialize an `int` variable?](basic/002-int-declaration.md)  
-3. What is the difference between `int` and `Integer`?
-4. Write a program to check if a number is even or odd
-5. Explain the `if-else` statement with an example
-6. How does a `for` loop work? Provide a code snippet
-7. Write a program to calculate the sum of numbers from 1 to 100
-8. What is a method in Java? Define a method to add two numbers
-9. What is an array? Write code to initialize an array of integers
-10. Explain the `switch` statement with an example
-11. Write a program to find the largest of three numbers
-12. What is type casting? Differentiate implicit vs explicit
-13. Write a program to reverse a string
-14. What are Java keywords? List five common ones
-15. How do you read input from the console using `Scanner`?
+3. [What is the difference between `int` and `Integer`?](basic/003-int-vs-integer.md)  
+4. [Write a program to check if a number is even or odd](basic/004-even-odd-check.md)  
+5. [Explain the `if-else` statement with an example](basic/005-if-else-statement.md)  
+6. [How does a `for` loop work? Provide a code snippet](basic/006-for-loop.md)  
+7. [Write a program to calculate the sum of numbers from 1 to 100](basic/007-sum-1-to-100.md)  
+8. [What is a method in Java? Define a method to add two numbers](basic/008-java-methods.md)  
+9. [What is an array? Write code to initialize an array of integers](basic/009-arrays.md)  
+10. [Explain the `switch` statement with an example](basic/010-switch-statement.md)
+11. [Write a program to find the largest of three numbers](basic/011-largest-of-three.md)  
+12. [What is type casting? Differentiate implicit vs explicit](basic/012-type-casting.md)  
+13. [Write a program to reverse a string](basic/013-reverse-string.md)  
+14. [What are Java keywords? List five common ones](basic/014-java-keywords.md)  
+15. [How do you read input from the console using `Scanner`?](basic/015-scanner-input.md)  
 16. Write a program to print Fibonacci series up to 10 terms
 17. What is a `while` loop? Provide an example
 18. Explain `break` and `continue` statements

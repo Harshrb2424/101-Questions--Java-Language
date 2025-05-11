@@ -4,7 +4,7 @@ A comprehensive collection of Java programming challenges and concepts, organize
 
 ---
 ### Progress
-*15/101*
+*25/101*
 
 ## Table of Contents
 - [Basic (1–25)](#basic-125)
@@ -26,22 +26,22 @@ A comprehensive collection of Java programming challenges and concepts, organize
 7. [Write a program to calculate the sum of numbers from 1 to 100](basic/007-sum-1-to-100.md)  
 8. [What is a method in Java? Define a method to add two numbers](basic/008-java-methods.md)  
 9. [What is an array? Write code to initialize an array of integers](basic/009-arrays.md)  
-10. [Explain the `switch` statement with an example](basic/010-switch-statement.md)
+10. [Explain the `switch` statement with an example](basic/010-switch-statement.md)  
 11. [Write a program to find the largest of three numbers](basic/011-largest-of-three.md)  
 12. [What is type casting? Differentiate implicit vs explicit](basic/012-type-casting.md)  
 13. [Write a program to reverse a string](basic/013-reverse-string.md)  
 14. [What are Java keywords? List five common ones](basic/014-java-keywords.md)  
 15. [How do you read input from the console using `Scanner`?](basic/015-scanner-input.md)  
-16. Write a program to print Fibonacci series up to 10 terms
-17. What is a `while` loop? Provide an example
-18. Explain `break` and `continue` statements
-19. Write a program to check if a number is prime
-20. What is the `String` class? How is it different from `StringBuffer`?
-21. Write a program to count vowels in a string
-22. What is the `Math` class? Give an example of its use
-23. Explain the `default` keyword in a `switch` case
-24. Write a program to calculate factorial iteratively
-25. What is a package in Java? How do you create one?
+16. [Write a program to print Fibonacci series up to 10 terms](basic/016-fibonacci-series.md)  
+17. [What is a `while` loop? Provide an example](basic/017-while-loop.md)  
+18. [Explain `break` and `continue` statements](basic/018-break-continue.md)  
+19. [Write a program to check if a number is prime](basic/019-prime-check.md)  
+20. [What is the `String` class? How is it different from `StringBuffer`?](basic/020-string-vs-stringbuffer.md)  
+21. [Write a program to count vowels in a string](basic/021-vowel-count.md)  
+22. [What is the `Math` class? Give an example of its use](basic/022-math-class.md)  
+23. [Explain the `default` keyword in a `switch` case](basic/023-switch-default.md)  
+24. [Write a program to calculate factorial iteratively](basic/024-factorial-iterative.md)  
+25. [What is a package in Java? How do you create one?](basic/025-package-creation.md)  
 
 ---
 

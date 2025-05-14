@@ -47,31 +47,31 @@ A comprehensive collection of Java programming challenges and concepts, organize
 
 ## Intermediate (26–50)
 
-26. What is exception handling? Explain `try-catch` blocks.
-27. Differentiate between `ArrayList` and `LinkedList`.
-28. Write a recursive program to calculate the factorial of a number.
-29. What is multithreading? Create a thread using `Runnable`.
-30. Explain the `finally` block in exception handling.
-31. Write a program to read/write text to a file.
-32. What are generics? Provide an example.
-33. Explain the `static` keyword with examples.
-34. Write a program to sort an array using bubble sort.
-35. What is method overloading? Give an example.
-36. How does `HashMap` work internally?
-37. Write a program to find duplicates in an array.
-38. What is inheritance? Provide a code example.
-39. Explain the `super` keyword.
-40. Write a program to implement a stack using an array.
-41. What is polymorphism? Differentiate between compile-time and runtime polymorphism.
-42. Explain the `transient` keyword.
-43. Write a program to check for palindromes.
-44. What is an interface? How is it different from an abstract class?
-45. Explain the `equals()` and `hashCode()` methods.
-46. Write a program to merge two sorted arrays.
-47. What is the `Comparable` interface? Provide an example.
-48. Explain the `this` keyword in Java.
-49. Write a program to print the Pascal triangle.
-50. How do you handle multiple exceptions in Java?
+26. [What is exception handling? Explain `try-catch` blocks.](intermediate/026-exception-handling.md)  
+27. [Differentiate between `ArrayList` and `LinkedList`.](intermediate/027-arraylist-vs-linkedlist.md)  
+28. [Write a recursive program to calculate the factorial of a number.](intermediate/028-recursive-factorial.md)  
+29. [What is multithreading? Create a thread using `Runnable`.](intermediate/029-multithreading-runnable.md)  
+30. [Explain the `finally` block in exception handling.](intermediate/030-finally-block.md)  
+31. [Write a program to read/write text to a file.](intermediate/031-file-io.md)  
+32. [What are generics? Provide an example.](intermediate/032-generics.md)  
+33. [Explain the `static` keyword with examples.](intermediate/033-static-keyword.md)  
+34. [Write a program to sort an array using bubble sort.](intermediate/034-bubble-sort.md)  
+35. [What is method overloading? Give an example.](intermediate/035-method-overloading.md)  
+36. [How does `HashMap` work internally?](intermediate/036-hashmap-internals.md)  
+37. [Write a program to find duplicates in an array.](intermediate/037-find-duplicates.md)  
+38. [What is inheritance? Provide a code example.](intermediate/038-inheritance.md)  
+39. [Explain the `super` keyword.](intermediate/039-super-keyword.md)  
+40. [Write a program to implement a stack using an array.](intermediate/040-stack-implementation.md)  
+41. [What is polymorphism? Differentiate between compile-time and runtime polymorphism.](intermediate/041-polymorphism.md)  
+42. [Explain the `transient` keyword.](intermediate/042-transient-keyword.md)  
+43. [Write a program to check for palindromes.](intermediate/043-palindrome-check.md)  
+44. [What is an interface? How is it different from an abstract class?](intermediate/044-interface-vs-abstract.md)  
+45. [Explain the `equals()` and `hashCode()` methods.](intermediate/045-equals-hashcode.md)  
+46. [Write a program to merge two sorted arrays.](intermediate/046-merge-sorted-arrays.md)  
+47. [What is the `Comparable` interface? Provide an example.](intermediate/047-comparable-interface.md)  
+48. [Explain the `this` keyword in Java.](intermediate/048-this-keyword.md)  
+49. [Write a program to print the Pascal triangle.](intermediate/049-pascal-triangle.md)  
+50. [How do you handle multiple exceptions in Java?](intermediate/050-multiple-exceptions.md)  
 
 ---
 
